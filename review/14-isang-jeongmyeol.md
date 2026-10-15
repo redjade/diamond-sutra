@@ -1,0 +1,54 @@
+# 제14분 전 구절 대조 검토
+
+- 검토 대상: `translation/14-isang-jeongmyeol.md`
+- C: T235 `pT08p0750a2701`~`pT08p0750c0306` 뒤 `0750c04`~`06`, [CBETA 고정본](https://raw.githubusercontent.com/cbeta-org/xml-p5/dbdea41071e1e260ad84b72faefd4587333cf76d/T/T08/T08n0235.xml)
+- S: GRETIL Vaidya본 `|| 14 ||`(Vaidya 80~82), [전자본](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/buddh/bsu051_u.htm)
+- 실제 확인일: 2026-10-16. 인쇄본은 직접 보지 않았다.
+
+| 한문 짧은 표지 | S 대응어 | 판정 | 이유와 수정 내용 |
+| --- | --- | --- | --- |
+| 분 제목·한국어 부제 | C/S 본문에 없음 | 유지 | 전통 32분 제목과 설명용 부제이며 경 본문의 번역으로 취급하지 않는다. |
+| 聞說是經，深解義趣，涕淚悲泣 | `dharmavegenāśrūṇi prāmuñcat` | 유지 | C의 깊은 이해와 눈물을 보존했다. S는 법의 힘에 감응해 눈물을 흘리고 닦았다고 달리 서술한다. |
+| 希有…甚深經典 | `āścaryaṃ … dharmaparyāyaḥ` | 유지 | 경이로움과 깊은 경전이라는 C 중심 찬탄이 정확하다. |
+| S에만 있는 청중 목적 | `agrayāna… śreṣṭhayāna… arthāya` | 유지 | 으뜸·최상 길에 나아선 이들을 위함은 본문에 보충하지 않고 주 2에 기록했다. |
+| 慧眼以來未曾得聞 | `jñānam utpannam … na … śrutapūrvaḥ` | 유지 | 지혜를 얻은 뒤에도 전에 듣지 못했다는 시간 관계가 정확하다. |
+| 信心清淨，則生實相 | `śrutvā bhūtasaṃjñām utpādayiṣyanti` | 유지 | `實相`을 S의 `참됨에 대한 관념`으로 옮긴 선택을 주 1에 밝혔다. |
+| 成就第一希有功德 | `parameṇa āścaryeṇa samanvāgatāḥ` | 유지 | 가장 드문 공덕을 이룬다는 C 중심 표현이 자연스럽다. |
+| 實相者則是非相 | `bhūtasaṃjñā saiva abhūtasaṃjñā` | 교정 | `고정된 관념이 아니다`보다 S의 직접 대립을 살려 `참되지 않은 관념`으로 고쳤고, C의 더 넓은 `非相`을 주 1에 밝혔다. |
+| 是故說名實相 | `tasmāt … bhūtasaṃjñā` | 유지 | 명명 공식이 정확하다. |
+| 我今信解受持不足為難 | `avakalpayāmi adhimucye` | 유지 | 현재의 믿음·이해를 C에 따라 옮겼다. S에는 수지 열거가 이 문장에 없지만 다음 미래 문장에는 있다. |
+| 後五百歲…信解受持 | `paścimāyāṃ pañcaśatyāṃ … udgrahīṣyanti…` | 유지 | 미래 시점과 수지 행위가 정확하다. S의 읽기·익히기·상세 설명은 별도 보충하지 않았다. |
+| 無我人眾生壽者相 | `na ātma…sattva…jīva…pudgalasaṃjñā` | 유지 | 네 관념 모두가 대응한다. C의 `人`과 S의 `sattva`, C의 `眾生`과 S의 `jīva`는 어순·용어가 완전 일치하지 않으나 기존 일관 번역을 유지했다. |
+| 四相即是非相 | `saivāsaṃjñā` | 교정 | `고정된 관념`을 원문의 `곧 관념이 아니다`로 고쳤다. |
+| 離一切諸相則名諸佛 | `sarvasaṃjñāpagatā hi buddhaḥ` | 유지 | 모든 관념을 떠난 이를 부처라 한다는 뜻이 정확하다. |
+| 不驚不怖不畏 | `notrasiṣyanti na saṃtrasiṣyanti na saṃtrāsamāpatsyante` | 유지 | 세 단계의 놀람·두려움이 보존되었다. |
+| 第一波羅蜜非第一…是名 | `paramapāramitā … apāramitā` | 교정 | 원문에 없는 `고정된`을 삭제해 역설을 그대로 살렸다. |
+| C에 없음 | `aparimāṇā api buddhā … bhāṣante` | 교정 | 무수한 부처도 이를 말한다는 문장은 S에만 있다. 본문 보충은 유지하되 주 5에 판본 차이를 새로 명시했다. |
+| 忍辱波羅蜜…非忍辱波羅蜜 | `kṣāntipāramitā saiva apāramitā` | 교정 | `고정된 어떤 완성`을 `인내의 완성이 아니다`로 고쳤다. |
+| 歌利王割截身體 | `kalirājā aṅga…māṃsāny acchaitsīt` | 유지 | 가리왕이 몸과 살을 베었다는 사건·주체가 정확하다. |
+| 爾時無四相 | 네 `saṃjñā` 부정 | 유지 | 과거 시제와 네 관념의 부정이 정확하다. |
+| S에만 있음 | `nāpi … saṃjñā vā asaṃjñā vā` | 유지 | 관념도 관념 아님도 없었다는 S 전용 문장은 본문에 넣지 않고 주 5에 기록했다. |
+| 若有四相應生瞋恨 | `vyāpādasaṃjñā … abhaviṣyat` | 유지 | 반사실 조건과 성냄·해칠 마음의 결과가 정확하다. |
+| 五百世作忍辱仙人 | `pañca jātiśatāni … kṣāntivādī ṛṣiḥ` | 유지 | 오백 생과 인내를 설한 수행자라는 뜻을 자연스럽게 옮겼다. |
+| 於爾所世無四相 | 네 `saṃjñā` 부정 | 유지 | 모든 해당 생에 네 관념이 없었다는 범위가 정확하다. |
+| 應離一切相發菩提心 | `sarvasaṃjñā vivarjayitvā … cittam utpādayitavyam` | 유지 | 모든 상을 떠나 깨달음의 마음을 내는 구조가 정확하다. |
+| 不應住色…法生心 | `na rūpa…dharmapratiṣṭhitaṃ cittam` | 유지 | 여섯 대상과 부정 범위가 정확하다. |
+| S에만 있는 法·非法 부정 | `na dharmapratiṣṭhitaṃ … nādharmapratiṣṭhitam` | 유지 | C에는 별도 열거가 없어 본문에 추가하지 않았다. `어디에도`가 포괄하므로 의미 누락은 없다. |
+| 應生無所住心 | `na kvacitpratiṣṭhitaṃ cittam` | 유지 | 어디에도 머무르지 않는 마음이라는 뜻이 정확하다. |
+| 若心有住則為非住 | `yatpratiṣṭhitaṃ tadevāpratiṣṭhitam` | 교정 | 해설어 `참으로`를 덜고 `그것은 곧 머무름이 아니다`로 원문 명제 구조를 복원했다. |
+| 不應住色布施 | `apratiṣṭhitena … dānaṃ dātavyam` | 유지 | C의 형상, S의 모든 여섯 대상 차이는 앞 문장과 함께 읽혀 현재 번역이 정확하다. |
+| 為利益一切眾生 | `sarvasattvānām arthāya` | 유지 | 수혜 범위와 목적이 정확하다. |
+| 一切諸相即是非相 | S는 이 자리에서 `sattvasaṃjñā saiva asaṃjñā` | 교정 | C의 모든 관념을 따라 `곧 관념이 아니다`로 고쳤다. S는 중생 관념 하나를 말하므로 완전한 어휘 대응은 아니다. |
+| 一切眾生則非眾生 | `sarvasattvā … asattvāḥ` | 교정 | `고정된 중생`을 삭제하여 원문 명명 역설을 보존했다. |
+| 真語實語如語不誑不異 | `bhūtavādī satyavādī tathāvādī ananyathāvādī na vitathavādī` | 유지 | 다섯 술어를 빠짐없이 자연스럽게 옮겼다. |
+| 所得法無實無虛 | `abhisaṃbuddho deśito nidhyātaḥ; na satyaṃ na mṛṣā` | 교정 | `고정된 실체`는 원문보다 좁다. `참도 아니고 거짓도 아니다`로 고쳐 C/S의 대칭 부정을 직접 보존했다. 실체화하지 말라는 해석은 번역 주 7로 옮겼다. S의 깨달음·설함·관찰을 본문 `깨닫고 가르친`으로 부분 보완했다. |
+| 住法布施如入闇 | `vastupatito … andhakārapraviṣṭaḥ` | 유지 | 대상에 떨어져/머물러 보시하는 보살과 암흑 비유가 정확하다. |
+| 不住法布施如有目日照 | `avastupatito … sūrye 'bhyudgate` | 유지 | 비집착 보시와 새벽 해의 시각 비유가 정확하다. |
+| 當來受持讀誦…佛智悉知悉見 | `udgrahīṣyanti… buddhajñānena… buddhacakṣuṣā` | 유지 | C의 수지·독송과 여래의 앎·봄이 정확하다. |
+| S에만 있는 상세 설명 | `parebhyaśca vistareṇa saṃprakāśayiṣyanti` | 유지 | 본문에 반영했으며 주 8에 S 보충과 C에 해당 표현이 없음을 명시했다. |
+| 成就無量無邊功德 | `aprameyam asaṃkhyeyaṃ puṇyaskandham` | 유지 | 불가량 복덕의 생성·획득을 `이룬다`로 자연스럽게 포괄했다. |
+
+## 결론
+
+- 필수 교정: `非相·非波羅蜜·非眾生·無實無虛` 등에 덧씌운 `고정된`을 제거하고 각 부정의 직접 목적어를 복원했다.
+- 잔여 불확실성: C의 `實相/非相`과 S의 `bhūtasaṃjñā/abhūtasaṃjñā`는 의미 폭이 다르다. 현재는 S의 좁은 표현을 본문에 채택하고 주에 C 차이를 명시했다.

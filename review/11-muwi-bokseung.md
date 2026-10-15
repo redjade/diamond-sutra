@@ -1,0 +1,24 @@
+# 제11분 전 구절 대조 검토
+
+- 검토 대상: `translation/11-muwi-bokseung.md`
+- C: T235 `pT08p0749c2515`~`pT08p0750a0215` 뒤 `pT08p0750a03`~`05`, [CBETA 고정본](https://raw.githubusercontent.com/cbeta-org/xml-p5/dbdea41071e1e260ad84b72faefd4587333cf76d/T/T08/T08n0235.xml)
+- S: GRETIL Vaidya본 `|| 11 ||`, [전자본](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/buddh/bsu051_u.htm)
+- 실제 확인일: 2026-10-16. 인쇄본은 직접 보지 않았다.
+
+| 한문 짧은 표지 | S 대응어 | 판정 | 이유와 수정 내용 |
+| --- | --- | --- | --- |
+| 분 제목·한국어 부제 | C/S 본문에 없음 | 유지 | 전통 32분 제목과 설명용 부제이며 경 본문의 번역으로 취급하지 않는다. |
+| 如恒河中所有沙數，如是沙等恒河 | `yāvatyo … vālukās tāvatya eva gaṅgānadyaḥ` | 유지 | 모래 수만큼 강이 있다는 가정이 정확하다. |
+| 是諸恒河沙寧為多不 | `tāsu yā vālukāḥ … bahvayaḥ` | 유지 | 질문 대상이 모든 강의 모래임을 정확히 살렸다. |
+| 但諸恒河尚多無數，何況其沙 | `tā eva … bahvayo … prāgeva … vālukāḥ` | 유지 | 강만도 많거늘 모래는 더 많다는 점층이 정확하다. |
+| 我今實言告汝 | `ārocayāmi … prativedayāmi` | 유지 | `참되게 일러 주겠다`가 알리고 확실히 전한다는 이중 동사를 자연스럽게 포괄한다. |
+| 七寶滿爾所…世界以用布施 | `lokadhātūn … saptaratnaparipūrṇaṃ … dānaṃ dadyāt` | 유지 | 세계의 수와 칠보 충만·보시 행위가 모두 보존되었다. |
+| C에 보시 대상 없음 | `tathāgatebhyo 'rhadbhyaḥ samyaksaṃbuddhebhyaḥ` | 교정 | 기존 `여래와 성자들`은 동일 인물의 존칭을 별도 집단처럼 만들었다. 같은 부처들을 가리키므로 본문은 다른 보시 대목과 같이 `여래들께`로 옮기고, 전체 존칭과 S 보완임을 주 2에 밝혔다. |
+| 得福多不／甚多 | `bahu … aprameyam asaṃkhyeyam` | 유지 | `매우 많다`는 C와 일치한다. 뒤의 `헤아릴 수도 셀 수도 없다`는 S 보완이므로 주 3에 표시했다. |
+| 受持四句偈等，為他人說 | `catuṣpādikām … udgṛhya … deśayet saṃprakāśayet` | 유지 | 네 구절 게송을 받아 다른 이에게 설명한다는 행위가 정확하다. S의 `자세히 드러내다`까지 별도 과장하지 않았다. |
+| 此福德勝前福德 | `bahutaraṃ … aprameyam asaṃkhyeyam` | 유지 | 앞 복덕보다 큼은 정확하다. `헤아릴 수 없음`은 S 전용 보완으로 주 3에 명시했다. |
+
+## 결론
+
+- 필수 교정: 보시 대상의 문법적 동격 관계. 번역 주도 함께 수정했다.
+- 잔여 불확실성: 없음. S 보완 두 곳은 번역 주에 명시되어 있다.
