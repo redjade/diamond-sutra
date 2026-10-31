@@ -8,6 +8,7 @@
 
 - [금강경 32분 번역 목록](translation/README.md)
 - [번역 근거·원어 대응·판본과 확인일](SOURCES.md)
+- [남은 작업과 이슈](TODO.md)
 - [32분 전 구절 검토표와 미해결 쟁점](review/README.md)
 - [번역 및 현토 표기 원칙](translation/STYLE.md)
 - 함께 작업한 [반야심경 번역 프로젝트](https://github.com/redjade/heart-sutra)
