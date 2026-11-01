@@ -19,38 +19,38 @@
 
 | 분 | 번역 | 전 구절 검토표 | 의미 단위 | `고정된` 전→후 |
 | --- | --- | --- | ---: | ---: |
-| 1 | [법회인유분(法會因由分)](../translation/01-beophoe-inyu.md) | [검토 기록](01-beophoe-inyu.md) | 17 | 0→0 |
-| 2 | [선현기청분(善現起請分)](../translation/02-seonhyeon-gicheong.md) | [검토 기록](02-seonhyeon-gicheong.md) | 17 | 0→0 |
-| 3 | [대승정종분(大乘正宗分)](../translation/03-daeseung-jeongjong.md) | [검토 기록](03-daeseung-jeongjong.md) | 18 | 1→0 |
-| 4 | [묘행무주분(妙行無住分)](../translation/04-myohang-muju.md) | [검토 기록](04-myohang-muju.md) | 13 | 0→0 |
-| 5 | [여리실견분(如理實見分)](../translation/05-yeori-silgyeon.md) | [검토 기록](05-yeori-silgyeon.md) | 7 | 2→0 |
-| 6 | [정신희유분(正信希有分)](../translation/06-jeongsin-huiyu.md) | [검토 기록](06-jeongsin-huiyu.md) | 21 | 0→0 |
-| 7 | [무득무설분(無得無說分)](../translation/07-mudeuk-museol.md) | [검토 기록](07-mudeuk-museol.md) | 10 | 2→2 |
-| 8 | [의법출생분(依法出生分)](../translation/08-uibeop-chulsaeng.md) | [검토 기록](08-uibeop-chulsaeng.md) | 13 | 2→0 |
-| 9 | [일상무상분(一相無相分)](../translation/09-ilsang-musang.md) | [검토 기록](09-ilsang-musang.md) | 20 | 4→0 |
-| 10 | [장엄정토분(莊嚴淨土分)](../translation/10-jang-eom-jeongto.md) | [검토 기록](10-jang-eom-jeongto.md) | 13 | 3→0 |
-| 11 | [무위복승분(無爲福勝分)](../translation/11-muwi-bokseung.md) | [검토 기록](11-muwi-bokseung.md) | 10 | 0→0 |
-| 12 | [존중정교분(尊重正教分)](../translation/12-jonjung-jeonggyo.md) | [검토 기록](12-jonjung-jeonggyo.md) | 10 | 0→0 |
-| 13 | [여법수지분(如法受持分)](../translation/13-yeobeop-suji.md) | [검토 기록](13-yeobeop-suji.md) | 19 | 6→0 |
-| 14 | [이상적멸분(離相寂滅分)](../translation/14-isang-jeongmyeol.md) | [검토 기록](14-isang-jeongmyeol.md) | 40 | 8→0 |
-| 15 | [지경공덕분(持經功德分)](../translation/15-jigyeong-gongdeok.md) | [검토 기록](15-jigyeong-gongdeok.md) | 19 | 0→0 |
-| 16 | [능정업장분(能淨業障分)](../translation/16-neungjeong-eopjang.md) | [검토 기록](16-neungjeong-eopjang.md) | 18 | 0→0 |
-| 17 | [구경무아분(究竟無我分)](../translation/17-gugyeong-mua.md) | [검토 기록](17-gugyeong-mua.md) | 29 | 15→0 |
-| 18 | [일체동관분(一體同觀分)](../translation/18-ilche-donggwan.md) | [검토 기록](18-ilche-donggwan.md) | 16 | 1→0 |
-| 19 | [법계통화분(法界通化分)](../translation/19-beopgye-tonghwa.md) | [검토 기록](19-beopgye-tonghwa.md) | 6 | 2→0 |
-| 20 | [이색이상분(離色離相分)](../translation/20-isaek-isang.md) | [검토 기록](20-isaek-isang.md) | 8 | 2→0 |
-| 21 | [비설소설분(非說所說分)](../translation/21-biseol-soseol.md) | [검토 기록](21-biseol-soseol.md) | 11 | 4→0 |
-| 22 | [무법가득분(無法可得分)](../translation/22-mubeop-gadeuk.md) | [검토 기록](22-mubeop-gadeuk.md) | 5 | 0→0 |
-| 23 | [정심행선분(淨心行善分)](../translation/23-jeongsim-haengseon.md) | [검토 기록](23-jeongsim-haengseon.md) | 9 | 2→0 |
-| 24 | [복지무비분(福智無比分)](../translation/24-bokji-mubi.md) | [검토 기록](24-bokji-mubi.md) | 11 | 0→0 |
-| 25 | [화무소화분(化無所化分)](../translation/25-hwa-muso-hwa.md) | [검토 기록](25-hwa-muso-hwa.md) | 8 | 5→0 |
-| 26 | [법신비상분(法身非相分)](../translation/26-beopsin-bisang.md) | [검토 기록](26-beopsin-bisang.md) | 10 | 0→0 |
-| 27 | [무단무멸분(無斷無滅分)](../translation/27-mudan-mumyeol.md) | [검토 기록](27-mudan-mumyeol.md) | 5 | 0→0 |
-| 28 | [불수불탐분(不受不貪分)](../translation/28-bulsu-bultam.md) | [검토 기록](28-bulsu-bultam.md) | 7 | 1→0 |
-| 29 | [위의적정분(威儀寂靜分)](../translation/29-wiui-jeokjeong.md) | [검토 기록](29-wiui-jeokjeong.md) | 5 | 0→0 |
-| 30 | [일합이상분(一合理相分)](../translation/30-ilhap-isang.md) | [검토 기록](30-ilhap-isang.md) | 10 | 5→0 |
-| 31 | [지견불생분(知見不生分)](../translation/31-jigyeon-bulsaeng.md) | [검토 기록](31-jigyeon-bulsaeng.md) | 7 | 2→0 |
-| 32 | [응화비진분(應化非真分)](../translation/32-eunghwa-bijin.md) | [검토 기록](32-eunghwa-bijin.md) | 15 | 0→0 |
+| 1 | [법회인유분(法會因由分)](../reader/01-beophoe-inyu.md) | [검토 기록](01-beophoe-inyu.md) | 17 | 0→0 |
+| 2 | [선현기청분(善現起請分)](../reader/02-seonhyeon-gicheong.md) | [검토 기록](02-seonhyeon-gicheong.md) | 17 | 0→0 |
+| 3 | [대승정종분(大乘正宗分)](../reader/03-daeseung-jeongjong.md) | [검토 기록](03-daeseung-jeongjong.md) | 18 | 1→0 |
+| 4 | [묘행무주분(妙行無住分)](../reader/04-myohang-muju.md) | [검토 기록](04-myohang-muju.md) | 13 | 0→0 |
+| 5 | [여리실견분(如理實見分)](../reader/05-yeori-silgyeon.md) | [검토 기록](05-yeori-silgyeon.md) | 7 | 2→0 |
+| 6 | [정신희유분(正信希有分)](../reader/06-jeongsin-huiyu.md) | [검토 기록](06-jeongsin-huiyu.md) | 21 | 0→0 |
+| 7 | [무득무설분(無得無說分)](../reader/07-mudeuk-museol.md) | [검토 기록](07-mudeuk-museol.md) | 10 | 2→2 |
+| 8 | [의법출생분(依法出生分)](../reader/08-uibeop-chulsaeng.md) | [검토 기록](08-uibeop-chulsaeng.md) | 13 | 2→0 |
+| 9 | [일상무상분(一相無相分)](../reader/09-ilsang-musang.md) | [검토 기록](09-ilsang-musang.md) | 20 | 4→0 |
+| 10 | [장엄정토분(莊嚴淨土分)](../reader/10-jang-eom-jeongto.md) | [검토 기록](10-jang-eom-jeongto.md) | 13 | 3→0 |
+| 11 | [무위복승분(無爲福勝分)](../reader/11-muwi-bokseung.md) | [검토 기록](11-muwi-bokseung.md) | 10 | 0→0 |
+| 12 | [존중정교분(尊重正教分)](../reader/12-jonjung-jeonggyo.md) | [검토 기록](12-jonjung-jeonggyo.md) | 10 | 0→0 |
+| 13 | [여법수지분(如法受持分)](../reader/13-yeobeop-suji.md) | [검토 기록](13-yeobeop-suji.md) | 19 | 6→0 |
+| 14 | [이상적멸분(離相寂滅分)](../reader/14-isang-jeongmyeol.md) | [검토 기록](14-isang-jeongmyeol.md) | 40 | 8→0 |
+| 15 | [지경공덕분(持經功德分)](../reader/15-jigyeong-gongdeok.md) | [검토 기록](15-jigyeong-gongdeok.md) | 19 | 0→0 |
+| 16 | [능정업장분(能淨業障分)](../reader/16-neungjeong-eopjang.md) | [검토 기록](16-neungjeong-eopjang.md) | 18 | 0→0 |
+| 17 | [구경무아분(究竟無我分)](../reader/17-gugyeong-mua.md) | [검토 기록](17-gugyeong-mua.md) | 29 | 15→0 |
+| 18 | [일체동관분(一體同觀分)](../reader/18-ilche-donggwan.md) | [검토 기록](18-ilche-donggwan.md) | 16 | 1→0 |
+| 19 | [법계통화분(法界通化分)](../reader/19-beopgye-tonghwa.md) | [검토 기록](19-beopgye-tonghwa.md) | 6 | 2→0 |
+| 20 | [이색이상분(離色離相分)](../reader/20-isaek-isang.md) | [검토 기록](20-isaek-isang.md) | 8 | 2→0 |
+| 21 | [비설소설분(非說所說分)](../reader/21-biseol-soseol.md) | [검토 기록](21-biseol-soseol.md) | 11 | 4→0 |
+| 22 | [무법가득분(無法可得分)](../reader/22-mubeop-gadeuk.md) | [검토 기록](22-mubeop-gadeuk.md) | 5 | 0→0 |
+| 23 | [정심행선분(淨心行善分)](../reader/23-jeongsim-haengseon.md) | [검토 기록](23-jeongsim-haengseon.md) | 9 | 2→0 |
+| 24 | [복지무비분(福智無比分)](../reader/24-bokji-mubi.md) | [검토 기록](24-bokji-mubi.md) | 11 | 0→0 |
+| 25 | [화무소화분(化無所化分)](../reader/25-hwa-muso-hwa.md) | [검토 기록](25-hwa-muso-hwa.md) | 8 | 5→0 |
+| 26 | [법신비상분(法身非相分)](../reader/26-beopsin-bisang.md) | [검토 기록](26-beopsin-bisang.md) | 10 | 0→0 |
+| 27 | [무단무멸분(無斷無滅分)](../reader/27-mudan-mumyeol.md) | [검토 기록](27-mudan-mumyeol.md) | 5 | 0→0 |
+| 28 | [불수불탐분(不受不貪分)](../reader/28-bulsu-bultam.md) | [검토 기록](28-bulsu-bultam.md) | 7 | 1→0 |
+| 29 | [위의적정분(威儀寂靜分)](../reader/29-wiui-jeokjeong.md) | [검토 기록](29-wiui-jeokjeong.md) | 5 | 0→0 |
+| 30 | [일합이상분(一合理相分)](../reader/30-ilhap-isang.md) | [검토 기록](30-ilhap-isang.md) | 10 | 5→0 |
+| 31 | [지견불생분(知見不生分)](../reader/31-jigyeon-bulsaeng.md) | [검토 기록](31-jigyeon-bulsaeng.md) | 7 | 2→0 |
+| 32 | [응화비진분(應化非真分)](../reader/32-eunghwa-bijin.md) | [검토 기록](32-eunghwa-bijin.md) | 15 | 0→0 |
 
 | 합계 | 32분 | 32개 검토표 | 427 | 67→2 |
 
@@ -64,4 +64,4 @@
 
 2026-11-01에는 중생·생명·네 견해의 지칭, 여시아문과 일인칭, 실체를 암시할 수 있는 현대어 부제를 검토했다. 제1·3·6·9·14·15·17·18·21·23·25·26·30·31·32분의 표 끝에 `무아·연기 관점 용어 검토`를 추가했다. 이 절이 과거 표의 해당 표현보다 우선한다. 새로운 전 구절 사본 교감이 아니며, 한문·현토는 변경하지 않았다. 실제 대응어와 팔리 평행 가르침의 고정 원문은 [SOURCES](../SOURCES.md)에 기록했다.
 
-[32분 번역 목록으로](../translation/README.md) · [출처와 주요 용어로](../SOURCES.md)
+[32분 번역 목록으로](../reader/README.md) · [출처와 주요 용어로](../SOURCES.md)

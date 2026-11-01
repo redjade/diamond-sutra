@@ -1,6 +1,6 @@
 # 제7분 전 구절 검토
 
-- 검토일: 2026-10-16. 대상: [번역·주석·현토 전체](../translation/07-mudeuk-museol.md).
+- 검토일: 2026-10-16. 대상: [번역·주석·현토 전체](../reader/07-mudeuk-museol.md).
 - C: [CBETA T235 고정본](https://github.com/cbeta-org/xml-p5/blob/dbdea41071e1e260ad84b72faefd4587333cf76d/T/T08/T08n0235.xml), 0749b12–18.
 - S: [GRETIL Vaidya 전자본](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/buddh/bsu051_u.htm), §7, 표시 쪽 77.
 

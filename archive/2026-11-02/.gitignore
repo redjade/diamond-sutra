@@ -1,0 +1,16 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+
+# Local configuration, caches, and generated files
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.cache/

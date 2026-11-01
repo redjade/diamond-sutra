@@ -1,6 +1,6 @@
 # 제2분 전 구절 검토
 
-- 검토일: 2026-10-16. 대상: [번역·주석·현토 전체](../translation/02-seonhyeon-gicheong.md).
+- 검토일: 2026-10-16. 대상: [번역·주석·현토 전체](../reader/02-seonhyeon-gicheong.md).
 - C: [CBETA T235 고정본](https://github.com/cbeta-org/xml-p5/blob/dbdea41071e1e260ad84b72faefd4587333cf76d/T/T08/T08n0235.xml), 0748c24–0749a04.
 - S: [GRETIL Vaidya 전자본](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/buddh/bsu051_u.htm), §2, 표시 쪽 75. 직접 본 자료는 전자본이다.
 

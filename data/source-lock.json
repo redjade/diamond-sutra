@@ -1,0 +1,10 @@
+{
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/dbdea41071e1e260ad84b72faefd4587333cf76d/T/T08/T08n0235.xml",
+      "filename": "T08n0235.xml",
+      "sha256": "45c5103fa03a6f12338cb7c5680a7b9a82e034c661ea9687e4b9f99540adea55"
+    }
+  ],
+  "preservation": "Original XML and complete headers are retained unchanged in the local source cache."
+}

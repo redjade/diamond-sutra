@@ -1,0 +1,5 @@
+data/** text eol=lf
+reader/** text eol=lf
+scripts/*.py text eol=lf
+# Frozen Markdown keeps its original hard line breaks.
+archive/**/*.md whitespace=-blank-at-eol

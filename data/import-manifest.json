@@ -1,0 +1,302 @@
+{
+  "commit": "53943f175fab357c706394d0ea613fb6ebe12ff5",
+  "snapshot": "archive/2026-11-02",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256_lf": "5a09b2755175a287f2cc1897a86835d6a3d6102444b59b8fd95ab7102061db9c"
+    },
+    {
+      "path": "LICENSE.md",
+      "sha256_lf": "d8acf933d454780aa9c5b5f6550fa44d38a0497746d7aa7613ec8d87aa8704ff"
+    },
+    {
+      "path": "README.md",
+      "sha256_lf": "6aa360691661f79e6abb8405bee72a9b76f2ed2a9b2e6845b0b0e07e6a237d30"
+    },
+    {
+      "path": "SOURCES.md",
+      "sha256_lf": "9ca307462accb3393abd1f4b737c0783addf5b8a5e03beb0a6f251c2c1d2ebd0"
+    },
+    {
+      "path": "TODO.md",
+      "sha256_lf": "7d554fba18449a64e37459faac67d75fd3f91e6a82a079b946e9cd857ec676da"
+    },
+    {
+      "path": "review/01-beophoe-inyu.md",
+      "sha256_lf": "b598be7ec2300caac12b1274ca439c6def8c10935e2f4c23ecb97d2c1e676e68"
+    },
+    {
+      "path": "review/02-seonhyeon-gicheong.md",
+      "sha256_lf": "9310833333fba6b47bc72f7df7aea6b69b5afa6633955537bb75d9923d4722c1"
+    },
+    {
+      "path": "review/03-daeseung-jeongjong.md",
+      "sha256_lf": "caca3346385470353bd27b9b25f7508b58466ed0288169cb2e0e280710845c3b"
+    },
+    {
+      "path": "review/04-myohang-muju.md",
+      "sha256_lf": "8fb9110d3ffcf3ddb88c5844bcf3f68be84908f1917a96d1869ca69b6880314a"
+    },
+    {
+      "path": "review/05-yeori-silgyeon.md",
+      "sha256_lf": "bd48d703001f838a3c6a94e2b427d9c4122902924e0d2c5fd2706f2662c20644"
+    },
+    {
+      "path": "review/06-jeongsin-huiyu.md",
+      "sha256_lf": "3a5d116766a09bd21ad76b34acfd17c2b72e9527b92709b74713c3890900cdbf"
+    },
+    {
+      "path": "review/07-mudeuk-museol.md",
+      "sha256_lf": "ae4173dee7ed883b092d0bde899150512ca8b978aa69fb5e865c65f8a7da90ae"
+    },
+    {
+      "path": "review/08-uibeop-chulsaeng.md",
+      "sha256_lf": "7722aeba55704e3390b150ffe0adcbc88c759731b090db1d67a2dc3107d8116d"
+    },
+    {
+      "path": "review/09-ilsang-musang.md",
+      "sha256_lf": "4778818d3ee2d08069f46e974fd825fa46fac6351d4954f4f933b768de71cd28"
+    },
+    {
+      "path": "review/10-jang-eom-jeongto.md",
+      "sha256_lf": "9a54a336ef7e0aa555464cb2beb4371c6e2393ad86ee353f361e5623ccbb6efe"
+    },
+    {
+      "path": "review/11-muwi-bokseung.md",
+      "sha256_lf": "3e9e5816e24c5dae53bf21c7f5159dfb48c9db70659be6782dce1405cc8b8261"
+    },
+    {
+      "path": "review/12-jonjung-jeonggyo.md",
+      "sha256_lf": "4cc62b9d71c94f164853c9e47b61b2888fe29597b636301ac0c9d8da12cecf15"
+    },
+    {
+      "path": "review/13-yeobeop-suji.md",
+      "sha256_lf": "5913cf684670b374c89effdcc64dadc80c8766d466ca602fbaae8938e732dc09"
+    },
+    {
+      "path": "review/14-isang-jeongmyeol.md",
+      "sha256_lf": "1c31fc5d1452644b25507bf3ab137e38878de3fa19d3887ab63bb488c165fa84"
+    },
+    {
+      "path": "review/15-jigyeong-gongdeok.md",
+      "sha256_lf": "25e6165b804b865db75c304bd9f3180411fb9b16f9e4be43a6a63a03911f235a"
+    },
+    {
+      "path": "review/16-neungjeong-eopjang.md",
+      "sha256_lf": "593db551e4e44a12b196a7d24126126f37157b72509f0b53a5f7e5a91e8c0a71"
+    },
+    {
+      "path": "review/17-gugyeong-mua.md",
+      "sha256_lf": "4e2b4097d5ddbb0589e43ae020cfcdf3015220cc6e25c56591f0639388a76ff1"
+    },
+    {
+      "path": "review/18-ilche-donggwan.md",
+      "sha256_lf": "c28a6096e95b316fb5eff456b8685cd40959b03455bb90bbc3b9661d1b6cfefc"
+    },
+    {
+      "path": "review/19-beopgye-tonghwa.md",
+      "sha256_lf": "5723bf52ea58431fd61f686b3480b4d4df9c67d41d3fd572deb68303f1a7eeac"
+    },
+    {
+      "path": "review/20-isaek-isang.md",
+      "sha256_lf": "e8c7c095fdfa4a2e54f69516ac93fac607a33c945b608c55ecca75394a5b8102"
+    },
+    {
+      "path": "review/21-biseol-soseol.md",
+      "sha256_lf": "d49a25eb6a15e7e7514736e584e062fdd499fee85ee53ae37d33c91409c99087"
+    },
+    {
+      "path": "review/22-mubeop-gadeuk.md",
+      "sha256_lf": "c789e708087596275921b45182ad4d3f6e08eb25afcd677337fab5054c170d27"
+    },
+    {
+      "path": "review/23-jeongsim-haengseon.md",
+      "sha256_lf": "48669023e62cb307d7ae3f99b1b33f065414fd494415dc49bc26df6bcb82f7e6"
+    },
+    {
+      "path": "review/24-bokji-mubi.md",
+      "sha256_lf": "af7abb6e9c4b741a2931ae9e88a1fb192797d44633de3ab9b3d13db45f3b3738"
+    },
+    {
+      "path": "review/25-hwa-muso-hwa.md",
+      "sha256_lf": "687892d75958432022be4beaa2507bd0658d7d41b6cc1077cab07f153a9bcc0c"
+    },
+    {
+      "path": "review/26-beopsin-bisang.md",
+      "sha256_lf": "d80c552d56cbb0b4656041264556ba771e8aad1cd992259b1f05d601d88ff432"
+    },
+    {
+      "path": "review/27-mudan-mumyeol.md",
+      "sha256_lf": "bb1a947b89089504638ec533bb3177ef7e623b50ab9341a642c5fda9198a329a"
+    },
+    {
+      "path": "review/28-bulsu-bultam.md",
+      "sha256_lf": "2768da9361f9f514045ceb9c25d352d9a8c7badc66f9732a4b5994bd737f529e"
+    },
+    {
+      "path": "review/29-wiui-jeokjeong.md",
+      "sha256_lf": "5478a943d70e45b6b6327b1fe0cc9ec7d6d1672e7b918969b2767745f47380d8"
+    },
+    {
+      "path": "review/30-ilhap-isang.md",
+      "sha256_lf": "f441a1484447dd9bda0b67ed8787f89fc7239394474441fd811321486cfbbc77"
+    },
+    {
+      "path": "review/31-jigyeon-bulsaeng.md",
+      "sha256_lf": "d0b2192737e7425b8ef06dfd4fedf3c3ce4b122677eb05e779d6228877b91433"
+    },
+    {
+      "path": "review/32-eunghwa-bijin.md",
+      "sha256_lf": "4a796cdf5575e1d26628cc085a47d24310c013e2d2d82a4169c1bc0d938d9504"
+    },
+    {
+      "path": "review/README.md",
+      "sha256_lf": "f8959d2f85694b8d85e1c9fc4ce56c2dea1e61f8cae14fe2b1ad261bbda9c7e3"
+    },
+    {
+      "path": "scripts/reorder_translation_sections.py",
+      "sha256_lf": "75c020b8e606780873a9946992caefc2ee31d38e89d51e32996c4b85ab9a93e6"
+    },
+    {
+      "path": "scripts/verify_translation.py",
+      "sha256_lf": "bd7c302f8a08e86e78e8b296b56bc87bf8567c38b6f6fa229b35674020f55697"
+    },
+    {
+      "path": "translation/01-beophoe-inyu.md",
+      "sha256_lf": "73a34860f2fdae319ad507b52a8ff504257c89fcbebb462a9fbe13e97f4436cf"
+    },
+    {
+      "path": "translation/02-seonhyeon-gicheong.md",
+      "sha256_lf": "3e81e860f562a8fb5b0f5a92934556d9a9fda00954662eadcc82c236f58438a3"
+    },
+    {
+      "path": "translation/03-daeseung-jeongjong.md",
+      "sha256_lf": "5d6a98cc78d437898f4607297d4e29c8b1b7973a37bb7e52bc4aae2fc52db5a6"
+    },
+    {
+      "path": "translation/04-myohang-muju.md",
+      "sha256_lf": "02c578af800b46439b127cbc804b80a33861b03d4a05ae9c2545871d7fa7385b"
+    },
+    {
+      "path": "translation/05-yeori-silgyeon.md",
+      "sha256_lf": "bb07aaf890be45053368ea48ff776ea651313179a902639e00d322768405ba66"
+    },
+    {
+      "path": "translation/06-jeongsin-huiyu.md",
+      "sha256_lf": "112f64294cbae7cec1728a25bd3f617e6119bafa92701f3823a5f73021b30eab"
+    },
+    {
+      "path": "translation/07-mudeuk-museol.md",
+      "sha256_lf": "00e8237bec411727bd363c20eaadecc5be83c1e232a3b6e0de5eae6c1415848a"
+    },
+    {
+      "path": "translation/08-uibeop-chulsaeng.md",
+      "sha256_lf": "42ea863a693e274a877e531b267be17106f8591b11be5360370eacbc6e8a360d"
+    },
+    {
+      "path": "translation/09-ilsang-musang.md",
+      "sha256_lf": "f88a70ffca389af69b52c4aeb74de6961b5f02248b1243f794603bfa12b7e6d6"
+    },
+    {
+      "path": "translation/10-jang-eom-jeongto.md",
+      "sha256_lf": "8af87c54a3efd0306fa2a528446fe250f9de9d76fa810d09fb04d3e44eff6335"
+    },
+    {
+      "path": "translation/11-muwi-bokseung.md",
+      "sha256_lf": "0910dcb9acdd37e007db5d59e5fd42a74c61911986ce69b02c413a57cdadefa2"
+    },
+    {
+      "path": "translation/12-jonjung-jeonggyo.md",
+      "sha256_lf": "e64d621118ad1a37d458899219ec76f17eaba6b3c87fa1bee8f32d90773ecb5d"
+    },
+    {
+      "path": "translation/13-yeobeop-suji.md",
+      "sha256_lf": "7c7645b1cada54128668ed9ee496b401b2abd3703d7872600cfca195c29d4b62"
+    },
+    {
+      "path": "translation/14-isang-jeongmyeol.md",
+      "sha256_lf": "a33b087d7c9fe156dac77398735f4c7a10de3171e7e304c70ae00b81e895a14d"
+    },
+    {
+      "path": "translation/15-jigyeong-gongdeok.md",
+      "sha256_lf": "69c0fc472fe7f85c6e99c6c8edde9915f3ec965d1cddd79d090d180bcb3e2fb1"
+    },
+    {
+      "path": "translation/16-neungjeong-eopjang.md",
+      "sha256_lf": "8276b39741f7a0e405a70496bba18705aa667ddcb46292eb61fc45eca0f96c2c"
+    },
+    {
+      "path": "translation/17-gugyeong-mua.md",
+      "sha256_lf": "f2e00f74273c8486d462528daf18e6c0b16f3361bb5277466d70ec70f72c2f04"
+    },
+    {
+      "path": "translation/18-ilche-donggwan.md",
+      "sha256_lf": "98787594d96f734292fe82a6d6f227ed6d08ab42422a5df03666ab625796f98e"
+    },
+    {
+      "path": "translation/19-beopgye-tonghwa.md",
+      "sha256_lf": "8385dbeb72ef08ac754401da2bf845e112eb5919d3b95a25264dd4756de0047f"
+    },
+    {
+      "path": "translation/20-isaek-isang.md",
+      "sha256_lf": "24ee4fc61a9eccfa21f764a54c36b82d771f1c03ddb282fb272e5027ca301b0a"
+    },
+    {
+      "path": "translation/21-biseol-soseol.md",
+      "sha256_lf": "a7119a91f78374fd19734874d284d612598a13ceeb8406bd1e8533c707f6cd88"
+    },
+    {
+      "path": "translation/22-mubeop-gadeuk.md",
+      "sha256_lf": "a869edf802f8bf598c01d15e7eee1909b9df6c3d48a897e24932fb2fb30e59ef"
+    },
+    {
+      "path": "translation/23-jeongsim-haengseon.md",
+      "sha256_lf": "f95885e7efe573b644589ece6c50ccd09030f9e469be20df4d8b97f216577f43"
+    },
+    {
+      "path": "translation/24-bokji-mubi.md",
+      "sha256_lf": "3e486460bcf3df941d295f8c040c6ba8c3c62d3dcc38497e07b346e83d88fd80"
+    },
+    {
+      "path": "translation/25-hwa-muso-hwa.md",
+      "sha256_lf": "55b24ebdedefb8ce212f82474ec6f874ea720c1573be79dfb05563a9996a24da"
+    },
+    {
+      "path": "translation/26-beopsin-bisang.md",
+      "sha256_lf": "cb5dbd56c1145f62a2a6a3531e0711bc69a211f41887e13aedf51a63d6c116de"
+    },
+    {
+      "path": "translation/27-mudan-mumyeol.md",
+      "sha256_lf": "a85dab3a84e643d887320a017a52dec5cbe605afe374f6670db780f015c60caf"
+    },
+    {
+      "path": "translation/28-bulsu-bultam.md",
+      "sha256_lf": "31c87e9d4787afd0decef474ddfec7f3ff1676d3079a92941158f0216f8ede07"
+    },
+    {
+      "path": "translation/29-wiui-jeokjeong.md",
+      "sha256_lf": "d2ac77bdc142ecece549d05aa72888b968dc9276fe9ae5bea16db2ba3a1cd725"
+    },
+    {
+      "path": "translation/30-ilhap-isang.md",
+      "sha256_lf": "e988522b406c1870ae82059a65c30e8c6bfaca7cf1149b444f926ca08cb6e8e4"
+    },
+    {
+      "path": "translation/31-jigyeon-bulsaeng.md",
+      "sha256_lf": "364be73678deac289e36715a62450439390211273f31985b23254f2bebcd0795"
+    },
+    {
+      "path": "translation/32-eunghwa-bijin.md",
+      "sha256_lf": "906021f7b44aea980a403f4e9c14c7f723092746ee5318b31de45e04c6adbc7c"
+    },
+    {
+      "path": "translation/README.md",
+      "sha256_lf": "e96bccbab122780ac8ed336e293a7cd577ceb6cb14d77b8ecd4ee0ed81d1ebd1"
+    },
+    {
+      "path": "translation/STYLE.md",
+      "sha256_lf": "f6c605c7cd5bc6d2a5ca9453a8afe6af8517cb9890ebbb6ab271760c902858d3"
+    }
+  ]
+}
